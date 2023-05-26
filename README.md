@@ -5,12 +5,14 @@ Once the program is running, it will automatically try to hide the keyboard and 
 
 ## Programming Languages:
 - C++
+- CMake
 
 ## Frameworks & Libraries:
 - string (to work with c++ strings)
 - fstream (to work with c++ file streams)
 - windows.h (to hide the keyboard on Windows OS)
 - algorithm (for utility functions like *std::any_of*)
+- cmake
 
 ## Implementation:
 Explaining the file architecture will make you also understand the entire program:
